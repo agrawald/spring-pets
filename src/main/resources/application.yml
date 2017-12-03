@@ -1,0 +1,4 @@
+#This file will be used byt eh developers to start the application on there local machines.
+
+agl:
+  server: http://agl-developer-test.azurewebsites.net
